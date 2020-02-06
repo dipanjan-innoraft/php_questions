@@ -7,7 +7,7 @@ $from = 'dipsraj.kundu@gmail.com';
 $fromName = 'DIPSRAJ';
 
 //email subject
-$subject = 'PHP Email with Attachment by CodexWorld';
+$subject = 'PHP Email with Attachment';
 
 //attachment file path
 $file = "image.png";
